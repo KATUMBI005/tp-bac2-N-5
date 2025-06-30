@@ -1,1 +1,1 @@
-# tp-bac2-N-5
+# tp_AI_BAC2_MINING_NUMBER 5
